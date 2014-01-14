@@ -1,1 +1,1 @@
-web:	java -cp target/classes:target/dependency/* ExcelJavaEmbeddedServer
+web:	java -cp target/classes:target/dependency/* org.exceljava.app.core.HelloServlet
